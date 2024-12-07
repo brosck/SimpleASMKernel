@@ -22,7 +22,7 @@ Requirements:
 
 ```
 # Install QEMU on your machine to emulate the kernel
-$ git clone https://github.com/Brosck/SimpleASMKernel
+$ git clone https://github.com/brosck/SimpleASMKernel
 $ cd SimpleASMKernel
 $ make
 $ qemu-system-x86_64 build/basickernel.bin
